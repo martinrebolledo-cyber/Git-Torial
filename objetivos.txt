@@ -1,3 +1,4 @@
 1. Dominar los comandos básicos de Git en Mac.
 2. Aprender a resolver conflictos de versiones.
 3. Trabajar de forma ordenada en proyectos con GitHub.
+4. Automatizar el respaldo de código en repositorios remotos.
